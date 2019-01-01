@@ -19,10 +19,10 @@ import org.apache.log4j.PropertyConfigurator;
 
 public class TwitterTopology {        
     public static void main(String args[]) throws Exception{
-        String consumerKey = "Ozu44TRF7Y0goJOuQ3ynxpGLF"; 
-        String consumerSecret = "i3Koq8qd3oFlUWGjzklY3nL3nhICtOpyssUyvhXwvALPyuK1s0"; 
-        String accessToken = "26958612-tl0u6Fg3ThxtRSmuDm6Yy5VbvN425aG5EgCSTyHto"; 
-        String accessTokenSecret = "sTnRdnwGMHAcdRLY7DOkZk885aDbjrVPH8d5vGxDble5M";
+        String consumerKey = ""; 
+        String consumerSecret = ""; 
+        String accessToken = ""; 
+        String accessTokenSecret = "";
         
 
         
